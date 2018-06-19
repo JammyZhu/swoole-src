@@ -1,6 +1,6 @@
 <?php
 
-class WebSocketClient
+class WebSocketClient2
 {
     const VERSION = '0.1.4';
 
